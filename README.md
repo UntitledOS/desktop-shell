@@ -1,2 +1,2 @@
-# desktop-shell
+# uShell Desktop Shell
 simple desktop shell
